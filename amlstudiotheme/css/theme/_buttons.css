@@ -1,0 +1,84 @@
+/**
+* Custom SCSS file for buttons
+*/
+.fa {
+  width: 3rem;
+  font-size: 2rem;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+  padding-left: 0; }
+
+.fa-github {
+  color: white; }
+
+.fa-navicon {
+  color: white; }
+
+.fa-linkedin {
+  color: white; }
+
+.fa-envelope-o {
+  color: white; }
+
+.fa-github:hover {
+  text-decoration: none;
+  color: black;
+  opacity: .7; }
+
+.fa-envelope-o:hover {
+  text-decoration: none;
+  color: black;
+  opacity: .7; }
+
+.fa-linkedin:hover {
+  text-decoration: none;
+  color: black;
+  opacity: .7; }
+
+.social-links-bottompage a {
+  color: white;
+  font-size: 2rem;
+  margin: 0 0;
+  width: 3rem; }
+
+.social-links-bottompage a:hover {
+  text-decoration: none;
+  color: black; }
+
+#contact-button {
+  margin-right: 2vw; }
+
+#contact-button2 {
+  margin-right: 1vw; }
+
+.btn-default {
+  border-style: solid;
+  border-color: black;
+  background-color: white;
+  color: black;
+  float: right;
+  border-radius: 0%;
+  margin-right: 0; }
+
+.btn-contact {
+  background-color: #D84B41;
+  border-color: #D84B41;
+  border-style: solid;
+  border-width: 1px;
+  color: white;
+  margin-bottom: 2em; }
+
+.btn-contact:hover {
+  border-color: white; }
+
+.btn-default:hover {
+  background-color: black;
+  border-color: white;
+  color: white; }
+
+.site-info .footer-branding {
+  color: white; }
+
+ul {
+  list-style-type: none; }
